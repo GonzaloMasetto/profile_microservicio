@@ -1,25 +1,26 @@
 # profile_microservicio
 
-1. Casos de uso del microservicio Profile 
-Casos de uso principales:
-Crear un perfil de usuario:
+## 1. Casos de uso del microservicio Profile
 
-Los usuarios pueden crear un perfil que incluya datos personales como nombre, email, gustos e imagen de perfil.
-Leer un perfil de usuario:
+### Casos de uso principales:
 
-Permitir que los usuarios vean su perfil.
-Actualizar un perfil de usuario:
+1. **Crear un perfil de usuario**:
+   - Los usuarios pueden crear un perfil que incluya datos personales como nombre, email, gustos e imagen de perfil.
 
-Los usuarios pueden actualizar su información personal y gustos.
-Eliminar un perfil de usuario:
+2. **Leer un perfil de usuario**:
+   - Permitir que los usuarios vean su perfil.
 
-Los usuarios pueden eliminar su perfil.
-Agregar Imagen de Perfil:
+3. **Actualizar un perfil de usuario**:
+   - Los usuarios pueden actualizar su información personal y gustos.
 
-Los usuarios pueden agregar o actualizar la imagen de perfil.
-Eliminar Imagen de Perfil:
+4. **Eliminar un perfil de usuario**:
+   - Los usuarios pueden eliminar su perfil.
 
-Los usuarios pueden eliminar la imagen de perfil.
-Actualizar Imagen de Perfil:
+5. **Agregar Imagen de Perfil**:
+   - Los usuarios pueden agregar o actualizar la imagen de perfil.
 
-Los usuarios pueden reemplazar la imagen de perfil actual por una nueva.
+6. **Eliminar Imagen de Perfil**:
+   - Los usuarios pueden eliminar la imagen de perfil.
+
+7. **Actualizar Imagen de Perfil**:
+   - Los usuarios pueden reemplazar la imagen de perfil actual por una nueva.
