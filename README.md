@@ -24,3 +24,19 @@
 
 7. **Actualizar Imagen de Perfil**:
    - Los usuarios pueden reemplazar la imagen de perfil actual por una nueva.
+
+## 2. Esquema de la base de datos
+
+Definamos cómo almacenar la información del perfil en MongoDB:
+
+### Colección: `profiles`
+
+| Campo          | Tipo         | Descripción                                          |
+|----------------|--------------|------------------------------------------------------|
+| `_id`          | `ObjectId`  | Identificador único del perfil (generado automáticamente por MongoDB). |
+| `name`         | `String`    | Nombre del usuario.                                   |
+| `email`        | `String`    | Email del usuario (debe ser único).                  |
+| `preferences`  | `Array`     | Lista de gustos o preferencias del usuario.          |
+| `profileImage` | `String`    | URL de la imagen de perfil del usuario.              |
+| `createdAt`    | `Date`      | Fecha y hora de creación del perfil.                 |
+| `updatedAt`    | `Date`      | Fecha y hora de la última actualización del perfil.  |
