@@ -22,8 +22,12 @@
 6. **Eliminar Imagen de Perfil**:
    - Los usuarios pueden eliminar la imagen de perfil.
 
-7. **Actualizar Imagen de Perfil**:
-   - Los usuarios pueden reemplazar la imagen de perfil actual por una nueva.
+7. **Ver Imagen de Perfil**:
+   - Los usuarios pueden Ver la imagen de perfil actual mas grande.
+
+8. **Ver historial de Imagenes de Perfil**:
+   - Los usuarios pueden Ver las imagenes de perfil que ha tenido el usuario durante el uso del sistema.
+     
 
 ## 2. Esquema de la base de datos
 
