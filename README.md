@@ -25,8 +25,9 @@
 7. **Ver Imagen de Perfil**:
    - Los usuarios pueden Ver la imagen de perfil actual mas grande.
 
-8. **Ver historial de Imagenes de Perfil**:
-   - Los usuarios pueden Ver las imagenes de perfil que ha tenido el usuario durante el uso del sistema.
+8. **Agregar categorias de gustos**:
+  
+9. **Ver Productos de Preferencias**:
      
 
 ## 2. Esquema de la base de datos
